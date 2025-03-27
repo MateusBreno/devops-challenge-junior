@@ -116,3 +116,41 @@ Este desafio foi criado para avaliar candidatos a posições júnior, testando t
 9. Suba o plugin para a sua instalação WordPress Lightsail e ative o mesmo.
 
 (Dados de acesso devem ser enviados para o email: lucas.costa@apiki.com)
+
+---
+
+## Evidências
+1. Plugin antes dá correção.
+
+- Página Principal
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/plugin-erro-1.png" alt="Página Principal">
+
+- Painel Administrativo
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/plugin-erro-2.png" alt="Painel Administrativo">
+
+2. Plugin depois dá correção.
+
+- Página Principal
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/plugin-corrigido-1.png" alt="Página Principal">
+
+- Painel Administrativo
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/plugin-corrigido-2.png" alt="Painel Administrativo">
+
+2. Desenho de arquitetura.
+
+- Amazon Lightsail
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/arquitetura.png" alt="Amazon Lightsail">
+
+- Login Wordpress
+<img src="http://44.195.20.22/wp-content/uploads/2025/03/Captura-de-tela-2025-03-26-214002.png" alt="Login Wordpress">
+
+3. Acesso ao Admin Wordpress.
+
+- URL
+http://44.195.20.22/wp-admin
+
+- Login
+user
+
+- Senha
+O3:gf1st3s5/
